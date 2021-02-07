@@ -1,0 +1,175 @@
+.top-div {
+
+	position: relative;
+	padding-top: 100px;
+	background-color: #f4f9f9;
+
+
+}
+
+h2 {
+	font-size: 2.5rem;
+	font-weight: normal;
+	color: #66BFBF;
+}
+
+.top-cloud {
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 300px;
+}
+
+.bottom-cloud {
+	position: absolute;
+}
+
+.middle-container {
+	margin: 100px auto;
+
+}
+
+.intro {
+	width: 30%;
+	margin: auto;
+
+}
+
+/**.bottom-div{ 
+	margin-left: 490px;
+	height: 200px; 
+	width: 200px; 
+	background-color:#ad6c80;  
+
+
+	border: 10px; 
+	border-style: solid; 
+}**/
+.web {
+	text-transform: uppercase;
+}
+
+body {
+	text-align: center;
+	margin: 0;
+	font-family: "Quicksand", serif;
+	font-size: 1.5rem; 
+	color: black; 
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 5rem;
+	margin-top: 50px;
+	color: #66BFBF;
+	line-height: 2;
+}
+
+.profile h2 {
+	font-style: italic;
+}
+
+hr {
+	border-style: dotted;
+	color: darkorchid;
+	border-bottom: none;
+	width: 5%;
+	margin: 100px auto;
+}
+
+table {
+	margin: 0 auto;
+
+
+}
+
+h3 {
+	color: #66BFBF;
+}
+
+.skill-row {
+	margin: 100px auto;
+	width: 50%;
+	text-align: left;
+
+}
+
+.skill-row p {
+	line-height: 2
+}
+
+.skillsone {
+
+	width: 25%;
+	float: left;
+	padding: 20px;
+}
+
+.skillstwo {
+	width: 25%;
+	float: right;
+	padding: 20px;
+
+}
+
+button {
+	background-color: #66BFBF;
+
+
+}
+
+.bottom-container {
+	margin-top: 100px;
+	background-color: #66BFBF;
+	text-align: center;
+	padding: 50px 0 20px; 
+	color: whitesmoke;
+
+}
+
+.bottom-container p {
+	font-size: 1rem;
+
+}
+
+a {
+	
+	margin: 10px 20px; 
+	text-decoration: none;
+	color: #11999E;
+	font-family: "Quicksand", serif;
+}
+a:hover{ 
+	color: whitesmoke; 
+
+}
+.btn {
+	background: #11cdd4;
+	background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+	background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+	-webkit-border-radius: 8;
+	-moz-border-radius: 8;
+	border-radius: 8px;
+	font-family: 'Quicksand', serif;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background: #30e3cb;
+	background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+	background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+	background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+	background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+	background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+	text-decoration: none;
+}
+
+.contact {
+	width: 40%;
+	margin: 40px auto;
+}
